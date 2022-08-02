@@ -4,7 +4,6 @@
 <!-- if this is decentralized why is there an admin? -->
 
 
-how do we want to test 
-`mainnet-fork`    
+how do we want to test?    
 `development` with mocks
 `testnet`
